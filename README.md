@@ -1,5 +1,21 @@
-# Extended Embed Builder Website
+# 🧱 Extended Embed Builder
 
-A simple and efficient embed builder website for the [Discord Bot TypeScript Template](https://github.com/glaxindev/discord-ts-template), the template utilizes a custom embed class initialized in the client to optimize memory usage and performance.
+A simple and efficient embed builder for the **Discord Bot TypeScript Template**, featuring a custom optimized embed class for better memory usage and performance.
+Based on a fork of **cubedhuang/discord-embed-creator** with enhanced output handling.
 
-This is a fork of **cubedhuang/discord-embed-creator** with some modifications for output.
+---
+
+## 🛠️ Tech Stack
+
+* ⬛ **Next.js**
+* 🟦 **TypeScript**
+* 🎨 **Tailwind CSS**
+
+---
+
+## 🤝 Contributing
+
+Got improvements or ideas?
+Open an issue or submit a pull request — contributions are welcome!
+
+---
